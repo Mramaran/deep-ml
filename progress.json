@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:25:39.913Z",
+  "generated_at": "2026-11-02T02:28:31.640Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,17 @@
       "last_pushed_at": "2026-10-19T07:25:40.143Z",
       "language": "python",
       "lines": 15
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-02T02:28:20.916Z",
+      "last_pushed_at": "2026-11-02T02:28:20.916Z"
     }
   }
 }
